@@ -1,5 +1,5 @@
 # hello-world
 
-### _Apenas Meu Repositório Olá Mundo | Just My Hello World Repository_ :tada:
+### Apenas Meu Repositório Olá Mundo | Just My Hello World Repository :tada:
 
-Dedicarei este repositório ao compartilhamento de conteúdos que possam contribuir com a comunidade.
+Dedico este repositório ao compartilhamento de conteúdos que possam contribuir com a comunidade.
